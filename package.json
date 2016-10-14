@@ -1,0 +1,18 @@
+{
+  "name": "gulp-chinese2unicode",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": ["chinese2unicode","chinese","unicode","utf-8","gbk","gb2312"],
+  "description": ["中文转换成unicode"],
+  "author": "zhe-he",
+  "license": "ISC",
+  "repository": {
+    "git":"git@github.com:zhe-he/gulp-chinese2unicode.git"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "preprocess": "^3.1.0",
+    "through": "^2.3.8"
+  }
+}

@@ -23,4 +23,8 @@ gulp.task('chinese2unicode', function() {
 
 ### encoding string(可选)
 
-如果你明确知道文件的编码，可以添加encoding参数，如果不设置，插件会自动检测编码。
+如果你明确知道文件的编码，可以添加encoding参数，如果不设置，插件会自动检测编码。	
+
+##其他	
+[github](https://github.com/zhe-he/gulp-chinese2unicode)	
+[建议](https://github.com/zhe-he/gulp-chinese2unicode/issues)
